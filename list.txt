@@ -1,42 +1,47 @@
-0: LRU Cache
-1: Word Search
-2: Number of Islands
-3: Best Time to Buy and Sell Stock
-4: Group Anagrams
-5: Longest Increasing Subsequence
-6: Two Sum
-7: Product of Array Except Self
-8: Coin Change
-9: Longest Substring Without Repeating Characters
-10: Merge Intervals
-11: Valid Anagram
-12: Valid Parentheses
-13: Trapping Rain Water
-14: House Robber
-15: Last Stone Weight
-16: Top K Frequent Elements
-17: Maximum Subarray
-18: Median of Two Sorted Arrays
-19: Kth Largest Element in an Array
-20: Rotate Image
-21: Koko Eating Bananas
-22: Palindromic Substrings
-23: Jump Game
-24: Reverse Linked List
-25: Happy Number
-26: Search in Rotated Sorted Array
-27: Valid Sudoku
-28: 3Sum
-29: Longest Consecutive Sequence
-30: Meeting Rooms II
-31: Course Schedule
-32: Spiral Matrix
-33: Find Median from Data Stream
-34: Maximum Product Subarray
-35: Min Stack
-36: Word Search II
-37: Minimum Window Substring
-38: Container With Most Water
-39: Find Minimum in Rotated Sorted Array
-40: Jump Game II
+0: LRU Cache [x]
+1: Word Search [x]
+2: Number of Islands [x]
+3: Best Time to Buy and Sell Stock [x]
+4: Group Anagrams [x]
+5: Longest Increasing Subsequence [x]
+6: Two Sum [x]
+7: Product of Array Except Self [x]
+8: Coin Change [x]
+9: Longest Substring Without Repeating Characters [x]
+10: Merge Intervals [x]
+11: Valid Anagram [x]
+12: Valid Parentheses [x]
+13: Trapping Rain Water [x] OP problem
+14: House Robber [x] 
+15: Last Stone Weight [x]
+16: Top K Frequent Elements [x]
+17: Maximum Subarray [x] *
+18: Median of Two Sorted Arrays (hard)
+19: Kth Largest Element in an Array [x]*
+20: Rotate Image [x]
+21: Koko Eating Bananas [x] *
+22: Palindromic Substrings [x]
+23: Jump Game [x]
+24: Reverse Linked List [x]
+25: Happy Number [x]
+26: Search in Rotated Sorted Array [x]
+27: Valid Sudoku [x]
+28: 3Sum [x]
+29: Longest Consecutive Sequence [x]
+30: Meeting Rooms II (locked)
+31: Course Schedule [x]
+32: Spiral Matrix -> keep making it smaller  [x]
+33: Find Median from Data Stream (hard)
+34: Maximum Product Subarray [x]
+35: Min Stack [x]
+36: Word Search II (hard)
+37: Minimum Window Substring (hard)
+38: Container With Most Water [x]
+39: Find Minimum in Rotated Sorted Array [x]
+40: Jump Game II [x]
 41: Design Twitter
+
+
+extra: Course Schedule 2
+how to convert recusion dp to array 
+
