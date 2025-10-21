@@ -2,7 +2,7 @@
 0: LRU Cache [x]
 1: Word Search [y]
 2: Number of Islands [y]
-3: Best Time to Buy and Sell Stock [x]
+3: Best Time to Buy and Sell Stock [y]
 4: Group Anagrams [x]
 5: Longest Increasing Subsequence [x]
 6: Two Sum [x]
