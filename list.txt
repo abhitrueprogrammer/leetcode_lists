@@ -3,7 +3,7 @@
 1: Word Search [y]
 2: Number of Islands [y]
 3: Best Time to Buy and Sell Stock [y]
-4: Group Anagrams [x]
+4: Group Anagrams [y]
 5: Longest Increasing Subsequence [x]
 6: Two Sum [x]
 7: Product of Array Except Self [x]
