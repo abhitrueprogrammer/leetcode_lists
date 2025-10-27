@@ -14,7 +14,7 @@
 12: Valid Parentheses [y]
 13: Trapping Rain Water [x] OP problem
 14: House Robber [y]
-15: Last Stone Weight [x]
+15: Last Stone Weight [y]
 16: Top K Frequent Elements [x]
 17: Maximum Subarray [x] *
 18: Median of Two Sorted Arrays (hard)
