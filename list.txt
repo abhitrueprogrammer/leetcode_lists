@@ -16,7 +16,7 @@
 14: House Robber [y]
 15: Last Stone Weight [y]
 16: Top K Frequent Elements [x]
-17: Maximum Subarray [x] *
+17: Maximum Subarray [y] *
 18: Median of Two Sorted Arrays (hard)
 19: Kth Largest Element in an Array [x]*
 20: Rotate Image [x]
