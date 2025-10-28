@@ -20,7 +20,7 @@
 18: Median of Two Sorted Arrays (hard)
 19: Kth Largest Element in an Array [y]*
 20: Rotate Image [y]
-21: Koko Eating Bananas [x] *
+21: Koko Eating Bananas [y] *
 22: Palindromic Substrings [x]
 23: Jump Game [x]
 24: Reverse Linked List [x]
