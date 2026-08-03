@@ -190,16 +190,6 @@
 | 149 | Sum of Two Integers | [ ] | [ ] |
 | 150 | Reverse Integer | [ ] | [ ] |
 
-**Verification:** Total rows: 150 | Unique problems: 150 | Duplicates: None | Missing: None
-
----
-
-**Verification**
-Total problems: 150
-Unique problems: 150
-Duplicates: None
-Missing problems: None
-
 **Rationale behind the ordering (brief):**
 - Tier 1 covers the highest-frequency, pattern-defining problems (hashing, two-pointer basics, BFS/DFS on trees/grids, basic DP) that unlock nearly everything else.
 - Tiers 2–3 build out the core patterns (binary search variants, heaps, backtracking, graph traversal, 1-D DP) that show up constantly in FAANG loops.
