@@ -4,7 +4,7 @@
 
 | S.No | Problem Name | Done | To Be Reviewed |
 |---|---|---|---|
-| 1 | Contains Duplicate | [ ] | [ ] |
+| 1 | Contains Duplicate | [x] | [ ] |
 | 2 | Valid Anagram | [ ] | [ ] |
 | 3 | Two Sum | [ ] | [ ] |
 | 4 | Group Anagrams | [ ] | [ ] |
