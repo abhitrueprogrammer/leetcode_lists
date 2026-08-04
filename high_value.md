@@ -9,7 +9,7 @@
 | 3 | Two Sum | Easy | [x] | [ ] |
 | 4 | Group Anagrams | Medium | [x] | [ ] |
 | 5 | Top K Frequent Elements | Medium | [x] | [x] |
-| 6 | Product of Array Except Self | Medium | [ ] | [ ] |
+| 6 | Product of Array Except Self | Medium | [x] | [O(1) space] |
 | 7 | 3Sum | Medium | [ ] | [ ] |
 | 8 | Best Time to Buy And Sell Stock | Easy | [ ] | [ ] |
 | 9 | Longest Substring Without Repeating Characters | Medium | [ ] | [ ] |
