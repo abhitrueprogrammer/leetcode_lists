@@ -5,9 +5,9 @@
 | S.No | Problem Name | Difficulty | Done | To Be Reviewed |
 |---|---|---|---|---|
 | 1 | Contains Duplicate | Easy | [x] | [ ] |
-| 2 | Valid Anagram | Easy | [ ] | [ ] |
-| 3 | Two Sum | Easy | [ ] | [ ] |
-| 4 | Group Anagrams | Medium | [ ] | [ ] |
+| 2 | Valid Anagram | Easy | [x] | [ ] |
+| 3 | Two Sum | Easy | [x] | [ ] |
+| 4 | Group Anagrams | Medium | [x] | [ ] |
 | 5 | Top K Frequent Elements | Medium | [ ] | [ ] |
 | 6 | Product of Array Except Self | Medium | [ ] | [ ] |
 | 7 | 3Sum | Medium | [ ] | [ ] |
