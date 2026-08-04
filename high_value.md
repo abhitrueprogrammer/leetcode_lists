@@ -2,193 +2,193 @@
 
 ## Tier 1 — Absolute Must Know
 
-| S.No | Problem Name | Done | To Be Reviewed |
-|---|---|---|---|
-| 1 | Contains Duplicate | [x] | [ ] |
-| 2 | Valid Anagram | [ ] | [ ] |
-| 3 | Two Sum | [ ] | [ ] |
-| 4 | Group Anagrams | [ ] | [ ] |
-| 5 | Top K Frequent Elements | [ ] | [ ] |
-| 6 | Product of Array Except Self | [ ] | [ ] |
-| 7 | 3Sum | [ ] | [ ] |
-| 8 | Best Time to Buy And Sell Stock | [ ] | [ ] |
-| 9 | Longest Substring Without Repeating Characters | [ ] | [ ] |
-| 10 | Valid Parentheses | [ ] | [ ] |
-| 11 | Binary Search | [ ] | [ ] |
-| 12 | Reverse Linked List | [ ] | [ ] |
-| 13 | Merge Two Sorted Lists | [ ] | [ ] |
-| 14 | Linked List Cycle | [ ] | [ ] |
-| 15 | Invert Binary Tree | [ ] | [ ] |
-| 16 | Maximum Depth of Binary Tree | [ ] | [ ] |
-| 17 | Same Tree | [ ] | [ ] |
-| 18 | Number of Islands | [ ] | [ ] |
-| 19 | Climbing Stairs | [ ] | [ ] |
-| 20 | Merge Intervals | [ ] | [ ] |
+| S.No | Problem Name | Difficulty | Done | To Be Reviewed |
+|---|---|---|---|---|
+| 1 | Contains Duplicate | Easy | [x] | [ ] |
+| 2 | Valid Anagram | Easy | [ ] | [ ] |
+| 3 | Two Sum | Easy | [ ] | [ ] |
+| 4 | Group Anagrams | Medium | [ ] | [ ] |
+| 5 | Top K Frequent Elements | Medium | [ ] | [ ] |
+| 6 | Product of Array Except Self | Medium | [ ] | [ ] |
+| 7 | 3Sum | Medium | [ ] | [ ] |
+| 8 | Best Time to Buy And Sell Stock | Easy | [ ] | [ ] |
+| 9 | Longest Substring Without Repeating Characters | Medium | [ ] | [ ] |
+| 10 | Valid Parentheses | Easy | [ ] | [ ] |
+| 11 | Binary Search | Easy | [ ] | [ ] |
+| 12 | Reverse Linked List | Easy | [ ] | [ ] |
+| 13 | Merge Two Sorted Lists | Easy | [ ] | [ ] |
+| 14 | Linked List Cycle | Easy | [ ] | [ ] |
+| 15 | Invert Binary Tree | Easy | [ ] | [ ] |
+| 16 | Maximum Depth of Binary Tree | Easy | [ ] | [ ] |
+| 17 | Same Tree | Easy | [ ] | [ ] |
+| 18 | Number of Islands | Medium | [ ] | [ ] |
+| 19 | Climbing Stairs | Easy | [ ] | [ ] |
+| 20 | Merge Intervals | Medium | [ ] | [ ] |
 
 ## Tier 2 — Very High ROI
 
-| S.No | Problem Name | Done | To Be Reviewed |
-|---|---|---|---|
-| 21 | Valid Palindrome | [ ] | [ ] |
-| 22 | Container With Most Water | [ ] | [ ] |
-| 23 | Find Minimum In Rotated Sorted Array | [ ] | [ ] |
-| 24 | Search In Rotated Sorted Array | [ ] | [ ] |
-| 25 | Subtree of Another Tree | [ ] | [ ] |
-| 26 | Lowest Common Ancestor of a Binary Search Tree | [ ] | [ ] |
-| 27 | Binary Tree Level Order Traversal | [ ] | [ ] |
-| 28 | Validate Binary Search Tree | [ ] | [ ] |
-| 29 | Last Stone Weight | [ ] | [ ] |
-| 30 | K Closest Points to Origin | [ ] | [ ] |
-| 31 | Kth Largest Element In An Array | [ ] | [ ] |
-| 32 | Subsets | [ ] | [ ] |
-| 33 | Combination Sum | [ ] | [ ] |
-| 34 | Permutations | [ ] | [ ] |
-| 35 | Word Search | [ ] | [ ] |
-| 36 | Clone Graph | [ ] | [ ] |
-| 37 | Course Schedule | [ ] | [ ] |
-| 38 | Insert Interval | [ ] | [ ] |
-| 39 | Non Overlapping Intervals | [ ] | [ ] |
-| 40 | Meeting Rooms | [ ] | [ ] |
-| 41 | Meeting Rooms II | [ ] | [ ] |
-| 42 | Rotate Image | [ ] | [ ] |
-| 43 | Spiral Matrix | [ ] | [ ] |
-| 44 | Maximum Subarray | [ ] | [ ] |
-| 45 | House Robber | [ ] | [ ] |
+| S.No | Problem Name | Difficulty | Done | To Be Reviewed |
+|---|---|---|---|---|
+| 21 | Valid Palindrome | Easy | [ ] | [ ] |
+| 22 | Container With Most Water | Medium | [ ] | [ ] |
+| 23 | Find Minimum In Rotated Sorted Array | Medium | [ ] | [ ] |
+| 24 | Search In Rotated Sorted Array | Medium | [ ] | [ ] |
+| 25 | Subtree of Another Tree | Easy | [ ] | [ ] |
+| 26 | Lowest Common Ancestor of a Binary Search Tree | Medium | [ ] | [ ] |
+| 27 | Binary Tree Level Order Traversal | Medium | [ ] | [ ] |
+| 28 | Validate Binary Search Tree | Medium | [ ] | [ ] |
+| 29 | Last Stone Weight | Easy | [ ] | [ ] |
+| 30 | K Closest Points to Origin | Medium | [ ] | [ ] |
+| 31 | Kth Largest Element In An Array | Medium | [ ] | [ ] |
+| 32 | Subsets | Medium | [ ] | [ ] |
+| 33 | Combination Sum | Medium | [ ] | [ ] |
+| 34 | Permutations | Medium | [ ] | [ ] |
+| 35 | Word Search | Medium | [ ] | [ ] |
+| 36 | Clone Graph | Medium | [ ] | [ ] |
+| 37 | Course Schedule | Medium | [ ] | [ ] |
+| 38 | Insert Interval | Medium | [ ] | [ ] |
+| 39 | Non Overlapping Intervals | Medium | [ ] | [ ] |
+| 40 | Meeting Rooms | Easy | [ ] | [ ] |
+| 41 | Meeting Rooms II | Medium | [ ] | [ ] |
+| 42 | Rotate Image | Medium | [ ] | [ ] |
+| 43 | Spiral Matrix | Medium | [ ] | [ ] |
+| 44 | Maximum Subarray | Medium | [ ] | [ ] |
+| 45 | House Robber | Medium | [ ] | [ ] |
 
 ## Tier 3 — High ROI
 
-| S.No | Problem Name | Done | To Be Reviewed |
-|---|---|---|---|
-| 46 | Encode and Decode Strings | [ ] | [ ] |
-| 47 | Longest Consecutive Sequence | [ ] | [ ] |
-| 48 | Two Sum II Input Array Is Sorted | [ ] | [ ] |
-| 49 | Longest Repeating Character Replacement | [ ] | [ ] |
-| 50 | Min Stack | [ ] | [ ] |
-| 51 | Evaluate Reverse Polish Notation | [ ] | [ ] |
-| 52 | Daily Temperatures | [ ] | [ ] |
-| 53 | Koko Eating Bananas | [ ] | [ ] |
-| 54 | Reorder List | [ ] | [ ] |
-| 55 | Remove Nth Node From End of List | [ ] | [ ] |
-| 56 | Add Two Numbers | [ ] | [ ] |
-| 57 | Diameter of Binary Tree | [ ] | [ ] |
-| 58 | Balanced Binary Tree | [ ] | [ ] |
-| 59 | Binary Tree Right Side View | [ ] | [ ] |
-| 60 | Count Good Nodes In Binary Tree | [ ] | [ ] |
-| 61 | Kth Smallest Element In a Bst | [ ] | [ ] |
-| 62 | Task Scheduler | [ ] | [ ] |
-| 63 | Word Break | [ ] | [ ] |
-| 64 | Longest Increasing Subsequence | [ ] | [ ] |
-| 65 | Coin Change | [ ] | [ ] |
-| 66 | Decode Ways | [ ] | [ ] |
-| 67 | Unique Paths | [ ] | [ ] |
-| 68 | Longest Common Subsequence | [ ] | [ ] |
-| 69 | Jump Game | [ ] | [ ] |
-| 70 | Set Matrix Zeroes | [ ] | [ ] |
+| S.No | Problem Name | Difficulty | Done | To Be Reviewed |
+|---|---|---|---|---|
+| 46 | Encode and Decode Strings | Medium | [ ] | [ ] |
+| 47 | Longest Consecutive Sequence | Medium | [ ] | [ ] |
+| 48 | Two Sum II Input Array Is Sorted | Medium | [ ] | [ ] |
+| 49 | Longest Repeating Character Replacement | Medium | [ ] | [ ] |
+| 50 | Min Stack | Medium | [ ] | [ ] |
+| 51 | Evaluate Reverse Polish Notation | Medium | [ ] | [ ] |
+| 52 | Daily Temperatures | Medium | [ ] | [ ] |
+| 53 | Koko Eating Bananas | Medium | [ ] | [ ] |
+| 54 | Reorder List | Medium | [ ] | [ ] |
+| 55 | Remove Nth Node From End of List | Medium | [ ] | [ ] |
+| 56 | Add Two Numbers | Medium | [ ] | [ ] |
+| 57 | Diameter of Binary Tree | Easy | [ ] | [ ] |
+| 58 | Balanced Binary Tree | Easy | [ ] | [ ] |
+| 59 | Binary Tree Right Side View | Medium | [ ] | [ ] |
+| 60 | Count Good Nodes In Binary Tree | Medium | [ ] | [ ] |
+| 61 | Kth Smallest Element In a Bst | Medium | [ ] | [ ] |
+| 62 | Task Scheduler | Medium | [ ] | [ ] |
+| 63 | Word Break | Medium | [ ] | [ ] |
+| 64 | Longest Increasing Subsequence | Medium | [ ] | [ ] |
+| 65 | Coin Change | Medium | [ ] | [ ] |
+| 66 | Decode Ways | Medium | [ ] | [ ] |
+| 67 | Unique Paths | Medium | [ ] | [ ] |
+| 68 | Longest Common Subsequence | Medium | [ ] | [ ] |
+| 69 | Jump Game | Medium | [ ] | [ ] |
+| 70 | Set Matrix Zeroes | Medium | [ ] | [ ] |
 
 ## Tier 4 — Common Interview Questions
 
-| S.No | Problem Name | Done | To Be Reviewed |
-|---|---|---|---|
-| 71 | Permutation In String | [ ] | [ ] |
-| 72 | Sliding Window Maximum | [ ] | [ ] |
-| 73 | Car Fleet | [ ] | [ ] |
-| 74 | LRU Cache | [ ] | [ ] |
-| 75 | Copy List With Random Pointer | [ ] | [ ] |
-| 76 | Construct Binary Tree From Preorder And Inorder Traversal | [ ] | [ ] |
-| 77 | Implement Trie Prefix Tree | [ ] | [ ] |
-| 78 | Design Add And Search Words Data Structure | [ ] | [ ] |
-| 79 | Pacific Atlantic Water Flow | [ ] | [ ] |
-| 80 | Rotting Oranges | [ ] | [ ] |
-| 81 | Walls And Gates | [ ] | [ ] |
-| 82 | Surrounded Regions | [ ] | [ ] |
-| 83 | Course Schedule II | [ ] | [ ] |
-| 84 | Number of Connected Components In An Undirected Graph | [ ] | [ ] |
-| 85 | Graph Valid Tree | [ ] | [ ] |
-| 86 | Redundant Connection | [ ] | [ ] |
-| 87 | Gas Station | [ ] | [ ] |
-| 88 | Partition Labels | [ ] | [ ] |
-| 89 | Happy Number | [ ] | [ ] |
-| 90 | Plus One | [ ] | [ ] |
+| S.No | Problem Name | Difficulty | Done | To Be Reviewed |
+|---|---|---|---|---|
+| 71 | Permutation In String | Medium | [ ] | [ ] |
+| 72 | Sliding Window Maximum | Hard | [ ] | [ ] |
+| 73 | Car Fleet | Medium | [ ] | [ ] |
+| 74 | LRU Cache | Medium | [ ] | [ ] |
+| 75 | Copy List With Random Pointer | Medium | [ ] | [ ] |
+| 76 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [ ] | [ ] |
+| 77 | Implement Trie Prefix Tree | Medium | [ ] | [ ] |
+| 78 | Design Add And Search Words Data Structure | Medium | [ ] | [ ] |
+| 79 | Pacific Atlantic Water Flow | Medium | [ ] | [ ] |
+| 80 | Rotting Oranges | Medium | [ ] | [ ] |
+| 81 | Walls And Gates | Medium | [ ] | [ ] |
+| 82 | Surrounded Regions | Medium | [ ] | [ ] |
+| 83 | Course Schedule II | Medium | [ ] | [ ] |
+| 84 | Number of Connected Components In An Undirected Graph | Medium | [ ] | [ ] |
+| 85 | Graph Valid Tree | Medium | [ ] | [ ] |
+| 86 | Redundant Connection | Medium | [ ] | [ ] |
+| 87 | Gas Station | Medium | [ ] | [ ] |
+| 88 | Partition Labels | Medium | [ ] | [ ] |
+| 89 | Happy Number | Easy | [ ] | [ ] |
+| 90 | Plus One | Easy | [ ] | [ ] |
 
 ## Tier 5 — Advanced Mediums
 
-| S.No | Problem Name | Done | To Be Reviewed |
-|---|---|---|---|
-| 91 | Generate Parentheses | [ ] | [ ] |
-| 92 | Combination Sum II | [ ] | [ ] |
-| 93 | Subsets II | [ ] | [ ] |
-| 94 | Letter Combinations of a Phone Number | [ ] | [ ] |
-| 95 | Palindrome Partitioning | [ ] | [ ] |
-| 96 | Valid Sudoku | [ ] | [ ] |
-| 97 | Search a 2D Matrix | [ ] | [ ] |
-| 98 | Time Based Key Value Store | [ ] | [ ] |
-| 99 | Min Cost Climbing Stairs | [ ] | [ ] |
-| 100 | House Robber II | [ ] | [ ] |
-| 101 | Longest Palindromic Substring | [ ] | [ ] |
-| 102 | Maximum Product Subarray | [ ] | [ ] |
-| 103 | Partition Equal Subset Sum | [ ] | [ ] |
-| 104 | Jump Game II | [ ] | [ ] |
-| 105 | Hand of Straights | [ ] | [ ] |
-| 106 | Merge Triplets to Form Target Triplet | [ ] | [ ] |
-| 107 | Minimum Interval to Include Each Query | [ ] | [ ] |
-| 108 | Max Area of Island | [ ] | [ ] |
-| 109 | Kth Largest Element In a Stream | [ ] | [ ] |
-| 110 | Pow(x, n) | [ ] | [ ] |
+| S.No | Problem Name | Difficulty | Done | To Be Reviewed |
+|---|---|---|---|---|
+| 91 | Generate Parentheses | Medium | [ ] | [ ] |
+| 92 | Combination Sum II | Medium | [ ] | [ ] |
+| 93 | Subsets II | Medium | [ ] | [ ] |
+| 94 | Letter Combinations of a Phone Number | Medium | [ ] | [ ] |
+| 95 | Palindrome Partitioning | Medium | [ ] | [ ] |
+| 96 | Valid Sudoku | Medium | [ ] | [ ] |
+| 97 | Search a 2D Matrix | Medium | [ ] | [ ] |
+| 98 | Time Based Key Value Store | Medium | [ ] | [ ] |
+| 99 | Min Cost Climbing Stairs | Easy | [ ] | [ ] |
+| 100 | House Robber II | Medium | [ ] | [ ] |
+| 101 | Longest Palindromic Substring | Medium | [ ] | [ ] |
+| 102 | Maximum Product Subarray | Medium | [ ] | [ ] |
+| 103 | Partition Equal Subset Sum | Medium | [ ] | [ ] |
+| 104 | Jump Game II | Medium | [ ] | [ ] |
+| 105 | Hand of Straights | Medium | [ ] | [ ] |
+| 106 | Merge Triplets to Form Target Triplet | Medium | [ ] | [ ] |
+| 107 | Minimum Interval to Include Each Query | Hard | [ ] | [ ] |
+| 108 | Max Area of Island | Medium | [ ] | [ ] |
+| 109 | Kth Largest Element In a Stream | Easy | [ ] | [ ] |
+| 110 | Pow(x, n) | Medium | [ ] | [ ] |
 
 ## Tier 6 — Strong Company Favorites
 
-| S.No | Problem Name | Done | To Be Reviewed |
-|---|---|---|---|
-| 111 | Trapping Rain Water | [ ] | [ ] |
-| 112 | Minimum Window Substring | [ ] | [ ] |
-| 113 | Find The Duplicate Number | [ ] | [ ] |
-| 114 | Serialize And Deserialize Binary Tree | [ ] | [ ] |
-| 115 | Design Twitter | [ ] | [ ] |
-| 116 | Word Ladder | [ ] | [ ] |
-| 117 | Network Delay Time | [ ] | [ ] |
-| 118 | Coin Change II | [ ] | [ ] |
-| 119 | Best Time to Buy And Sell Stock With Cooldown | [ ] | [ ] |
-| 120 | Palindromic Substrings | [ ] | [ ] |
-| 121 | Multiply Strings | [ ] | [ ] |
-| 122 | Detect Squares | [ ] | [ ] |
-| 123 | Single Number | [ ] | [ ] |
-| 124 | Number of 1 Bits | [ ] | [ ] |
-| 125 | Counting Bits | [ ] | [ ] |
+| S.No | Problem Name | Difficulty | Done | To Be Reviewed |
+|---|---|---|---|---|
+| 111 | Trapping Rain Water | Hard | [ ] | [ ] |
+| 112 | Minimum Window Substring | Hard | [ ] | [ ] |
+| 113 | Find The Duplicate Number | Medium | [ ] | [ ] |
+| 114 | Serialize And Deserialize Binary Tree | Hard | [ ] | [ ] |
+| 115 | Design Twitter | Medium | [ ] | [ ] |
+| 116 | Word Ladder | Hard | [ ] | [ ] |
+| 117 | Network Delay Time | Medium | [ ] | [ ] |
+| 118 | Coin Change II | Medium | [ ] | [ ] |
+| 119 | Best Time to Buy And Sell Stock With Cooldown | Medium | [ ] | [ ] |
+| 120 | Palindromic Substrings | Medium | [ ] | [ ] |
+| 121 | Multiply Strings | Medium | [ ] | [ ] |
+| 122 | Detect Squares | Medium | [ ] | [ ] |
+| 123 | Single Number | Easy | [ ] | [ ] |
+| 124 | Number of 1 Bits | Easy | [ ] | [ ] |
+| 125 | Counting Bits | Easy | [ ] | [ ] |
 
 ## Tier 7 — Hard but Worth Knowing
 
-| S.No | Problem Name | Done | To Be Reviewed |
-|---|---|---|---|
-| 126 | Largest Rectangle In Histogram | [ ] | [ ] |
-| 127 | Median of Two Sorted Arrays | [ ] | [ ] |
-| 128 | Merge K Sorted Lists | [ ] | [ ] |
-| 129 | Reverse Nodes In K Group | [ ] | [ ] |
-| 130 | Binary Tree Maximum Path Sum | [ ] | [ ] |
-| 131 | Find Median From Data Stream | [ ] | [ ] |
-| 132 | N Queens | [ ] | [ ] |
-| 133 | Word Search II | [ ] | [ ] |
-| 134 | Reconstruct Itinerary | [ ] | [ ] |
-| 135 | Min Cost to Connect All Points | [ ] | [ ] |
-| 136 | Swim In Rising Water | [ ] | [ ] |
-| 137 | Alien Dictionary | [ ] | [ ] |
-| 138 | Cheapest Flights Within K Stops | [ ] | [ ] |
-| 139 | Target Sum | [ ] | [ ] |
-| 140 | Interleaving String | [ ] | [ ] |
+| S.No | Problem Name | Difficulty | Done | To Be Reviewed |
+|---|---|---|---|---|
+| 126 | Largest Rectangle In Histogram | Hard | [ ] | [ ] |
+| 127 | Median of Two Sorted Arrays | Hard | [ ] | [ ] |
+| 128 | Merge K Sorted Lists | Hard | [ ] | [ ] |
+| 129 | Reverse Nodes In K Group | Hard | [ ] | [ ] |
+| 130 | Binary Tree Maximum Path Sum | Hard | [ ] | [ ] |
+| 131 | Find Median From Data Stream | Hard | [ ] | [ ] |
+| 132 | N Queens | Hard | [ ] | [ ] |
+| 133 | Word Search II | Hard | [ ] | [ ] |
+| 134 | Reconstruct Itinerary | Hard | [ ] | [ ] |
+| 135 | Min Cost to Connect All Points | Medium | [ ] | [ ] |
+| 136 | Swim In Rising Water | Hard | [ ] | [ ] |
+| 137 | Alien Dictionary | Hard | [ ] | [ ] |
+| 138 | Cheapest Flights Within K Stops | Medium | [ ] | [ ] |
+| 139 | Target Sum | Medium | [ ] | [ ] |
+| 140 | Interleaving String | Medium | [ ] | [ ] |
 
 ## Tier 8 — Final Bosses
 
-| S.No | Problem Name | Done | To Be Reviewed |
-|---|---|---|---|
-| 141 | Longest Increasing Path In a Matrix | [ ] | [ ] |
-| 142 | Distinct Subsequences | [ ] | [ ] |
-| 143 | Edit Distance | [ ] | [ ] |
-| 144 | Burst Balloons | [ ] | [ ] |
-| 145 | Regular Expression Matching | [ ] | [ ] |
-| 146 | Valid Parenthesis String | [ ] | [ ] |
-| 147 | Reverse Bits | [ ] | [ ] |
-| 148 | Missing Number | [ ] | [ ] |
-| 149 | Sum of Two Integers | [ ] | [ ] |
-| 150 | Reverse Integer | [ ] | [ ] |
+| S.No | Problem Name | Difficulty | Done | To Be Reviewed |
+|---|---|---|---|---|
+| 141 | Longest Increasing Path In a Matrix | Hard | [ ] | [ ] |
+| 142 | Distinct Subsequences | Hard | [ ] | [ ] |
+| 143 | Edit Distance | Medium | [ ] | [ ] |
+| 144 | Burst Balloons | Hard | [ ] | [ ] |
+| 145 | Regular Expression Matching | Hard | [ ] | [ ] |
+| 146 | Valid Parenthesis String | Medium | [ ] | [ ] |
+| 147 | Reverse Bits | Easy | [ ] | [ ] |
+| 148 | Missing Number | Easy | [ ] | [ ] |
+| 149 | Sum of Two Integers | Medium | [ ] | [ ] |
+| 150 | Reverse Integer | Medium | [ ] | [ ] |
 
 **Rationale behind the ordering (brief):**
 - Tier 1 covers the highest-frequency, pattern-defining problems (hashing, two-pointer basics, BFS/DFS on trees/grids, basic DP) that unlock nearly everything else.
