@@ -13,7 +13,7 @@
 | 7 | 3Sum | Medium | [x] | [] |
 | 8 | Best Time to Buy And Sell Stock | Easy | [x] | [ ] |
 | 9 | Longest Substring Without Repeating Characters | Medium | [x] | [ ] |
-| 10 | Valid Parentheses | Easy | [ ] | [ ] |
+| 10 | Valid Parentheses | Easy | [x] | [ ] |
 | 11 | Binary Search | Easy | [ ] | [ ] |
 | 12 | Reverse Linked List | Easy | [ ] | [ ] |
 | 13 | Merge Two Sorted Lists | Easy | [ ] | [ ] |
