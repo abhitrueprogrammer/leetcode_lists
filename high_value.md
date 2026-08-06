@@ -15,7 +15,7 @@
 | 9 | Longest Substring Without Repeating Characters | Medium | [x] | [ ] |
 | 10 | Valid Parentheses | Easy | [x] | [ ] |
 | 11 | Binary Search | Easy | [x] | [ ] |
-| 12 | Reverse Linked List | Easy | [] | [ ] |
+| 12 | Reverse Linked List | Easy | [x] | [ ] |
 | 13 | Merge Two Sorted Lists | Easy | [ ] | [ ] |
 | 14 | Linked List Cycle | Easy | [ ] | [ ] |
 | 15 | Invert Binary Tree | Easy | [ ] | [ ] |
