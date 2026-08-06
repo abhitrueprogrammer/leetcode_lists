@@ -12,7 +12,7 @@
 | 6 | Product of Array Except Self | Medium | [x] | [O(1) space] |
 | 7 | 3Sum | Medium | [x] | [] |
 | 8 | Best Time to Buy And Sell Stock | Easy | [x] | [ ] |
-| 9 | Longest Substring Without Repeating Characters | Medium | [ ] | [ ] |
+| 9 | Longest Substring Without Repeating Characters | Medium | [x] | [ ] |
 | 10 | Valid Parentheses | Easy | [ ] | [ ] |
 | 11 | Binary Search | Easy | [ ] | [ ] |
 | 12 | Reverse Linked List | Easy | [ ] | [ ] |
